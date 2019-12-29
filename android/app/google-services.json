@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "297014586070",
+    "firebase_url": "https://motime-4af53.firebaseio.com",
+    "project_id": "motime-4af53",
+    "storage_bucket": "motime-4af53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297014586070:android:4f6089e40cef564adbb777",
+        "android_client_info": {
+          "package_name": "com.motime.motime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297014586070-5u7nr9dvubriaa3hnts2nr0k0e4cfk63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.motime.motime",
+            "certificate_hash": "33e69e5f26ae32c3c93ef4c99e527c077a71a022"
+          }
+        },
+        {
+          "client_id": "297014586070-o51nr3lp514p2jetajijq6up9tkfrc69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvJ4YLLfDGaV28KAeUSONDDaoAZhOs6Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297014586070-o51nr3lp514p2jetajijq6up9tkfrc69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

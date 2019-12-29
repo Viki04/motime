@@ -1,0 +1,36 @@
+import 'package:flutter/material.dart';
+import 'package:blink/pages/login_page.dart';
+
+class PrimaryPage extends StatefulWidget{
+  final String _routeName;
+
+  String get routeName => _routeName;
+
+  PrimaryPage(this._routeName);
+
+ @override
+  _PrimaryPageState createState()=> _PrimaryPageState();
+
+}
+
+class _PrimaryPageState extends State<PrimaryPage>{
+  final GlobalKey <ScaffoldState> _scaffoldKey=new GlobalKey<ScaffoldState>();
+
+  @override
+  void initState() {
+    super.initState();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+
+    return Scaffold(
+      key: _scaffoldKey,
+      body: new Container(
+        color:Colors.pink,
+      ),
+    );
+
+  }
+
+}
